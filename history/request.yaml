@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: CE09OSSM-SBD11-06-METBKA000-recovered_host-metbk_a_dcl_instrument_recovered
 last_request: '2022-01-01T02:13:55.718193Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-SBD11-06-METBKA000-recovered_host-metbk_a_dcl_instrument_recovered/main/history/response.json
-status: pending
+status: success
